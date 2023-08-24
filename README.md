@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Mariana! 
-- 👀 Estou cursando Ciencias da Computacao
+- 👀 Estou cursando Ciências da Computação
 - 😄 Desenvolvedora BackEnd em formação
 - 🌱 Tenho conhecimmento nas linguagens: JavaScript, TypeScript, e C
 - ⚡ Curiosidade: Gosto muito de gatos
