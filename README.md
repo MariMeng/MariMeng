@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Mariana! 
 - 👀 Estou cursando Ciências da Computação
-- 😄 Desenvolvedora BackEnd em formação
+- 😄 Desenvolvedora BackEnd 
 - 🌱 Tenho conhecimmento nas linguagens: JavaScript, TypeScript, C e SQL
 - ⚡ Curiosidade: Gosto muito de gatos
 - 📫 Você pode me conhecer melhor no linkedin https://www.linkedin.com/in/mariana-barros-21ab58245/
