@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset=".5" stop-color="#1a1b3a"/><stop offset="1" stop-color="#24243e"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c084fc"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<radialGradient id="nd"><stop offset="0" stop-color="#f0abfc"/><stop offset="1" stop-color="#8b5cf6"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.e{stroke:#6d28d9;stroke-opacity:.25;stroke-width:1}
+.p{stroke:#22d3ee;stroke-width:2;stroke-linecap:round;stroke-dasharray:14 400;stroke-dashoffset:414;animation:flow 2.4s linear infinite;filter:url(#glow)}
+@keyframes flow{to{stroke-dashoffset:0}}
+.n{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:.7;transform:scale(1)}50%{opacity:1;transform:scale(1.25)}}
+.t1{font:700 40px 'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#tx)}
+.t2{font:400 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}
+.cur{animation:blink 1s step-end infinite;fill:#22d3ee}
+@keyframes blink{50%{opacity:0}}
+.fade{opacity:0;animation:in 1.2s ease forwards}
+@keyframes in{to{opacity:1}}
+</style>
+<rect width="1000" height="280" rx="16" fill="url(#bg)"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="40.0"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="80.0"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="120.0"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="160.0"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="200.0"/>
+<line class="e" x1="580.0" y1="80.0" x2="700.0" y2="240.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="40.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="80.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="120.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="160.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="200.0"/>
+<line class="e" x1="580.0" y1="120.0" x2="700.0" y2="240.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="40.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="80.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="120.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="160.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="200.0"/>
+<line class="e" x1="580.0" y1="160.0" x2="700.0" y2="240.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="40.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="80.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="120.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="160.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="200.0"/>
+<line class="e" x1="580.0" y1="200.0" x2="700.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="40.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="80.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="120.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="160.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="200.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="40.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="80.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="120.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="160.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="200.0"/>
+<line class="e" x1="700.0" y1="240.0" x2="820.0" y2="240.0"/>
+<line class="e" x1="820.0" y1="40.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="40.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="40.0" x2="940.0" y2="180.0"/>
+<line class="e" x1="820.0" y1="80.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="80.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="80.0" x2="940.0" y2="180.0"/>
+<line class="e" x1="820.0" y1="120.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="120.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="120.0" x2="940.0" y2="180.0"/>
+<line class="e" x1="820.0" y1="160.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="160.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="160.0" x2="940.0" y2="180.0"/>
+<line class="e" x1="820.0" y1="200.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="200.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="200.0" x2="940.0" y2="180.0"/>
+<line class="e" x1="820.0" y1="240.0" x2="940.0" y2="100.0"/>
+<line class="e" x1="820.0" y1="240.0" x2="940.0" y2="140.0"/>
+<line class="e" x1="820.0" y1="240.0" x2="940.0" y2="180.0"/>
+<line class="p" x1="580.0" y1="80.0" x2="700.0" y2="40.0" style="animation-delay:0.09s"/>
+<line class="p" x1="580.0" y1="80.0" x2="700.0" y2="120.0" style="animation-delay:0.32s"/>
+<line class="p" x1="580.0" y1="80.0" x2="700.0" y2="160.0" style="animation-delay:0.03s"/>
+<line class="p" x1="580.0" y1="80.0" x2="700.0" y2="240.0" style="animation-delay:0.26s"/>
+<line class="p" x1="580.0" y1="120.0" x2="700.0" y2="40.0" style="animation-delay:0.05s"/>
+<line class="p" x1="580.0" y1="120.0" x2="700.0" y2="80.0" style="animation-delay:0.50s"/>
+<line class="p" x1="580.0" y1="120.0" x2="700.0" y2="120.0" style="animation-delay:0.13s"/>
+<line class="p" x1="580.0" y1="160.0" x2="700.0" y2="40.0" style="animation-delay:0.59s"/>
+<line class="p" x1="580.0" y1="160.0" x2="700.0" y2="80.0" style="animation-delay:0.52s"/>
+<line class="p" x1="580.0" y1="160.0" x2="700.0" y2="120.0" style="animation-delay:0.09s"/>
+<line class="p" x1="580.0" y1="160.0" x2="700.0" y2="160.0" style="animation-delay:0.19s"/>
+<line class="p" x1="580.0" y1="160.0" x2="700.0" y2="240.0" style="animation-delay:0.35s"/>
+<line class="p" x1="580.0" y1="200.0" x2="700.0" y2="80.0" style="animation-delay:0.33s"/>
+<line class="p" x1="580.0" y1="200.0" x2="700.0" y2="120.0" style="animation-delay:0.04s"/>
+<line class="p" x1="580.0" y1="200.0" x2="700.0" y2="160.0" style="animation-delay:0.41s"/>
+<line class="p" x1="580.0" y1="200.0" x2="700.0" y2="200.0" style="animation-delay:0.19s"/>
+<line class="p" x1="700.0" y1="40.0" x2="820.0" y2="80.0" style="animation-delay:1.28s"/>
+<line class="p" x1="700.0" y1="40.0" x2="820.0" y2="160.0" style="animation-delay:1.14s"/>
+<line class="p" x1="700.0" y1="80.0" x2="820.0" y2="80.0" style="animation-delay:1.39s"/>
+<line class="p" x1="700.0" y1="80.0" x2="820.0" y2="120.0" style="animation-delay:1.05s"/>
+<line class="p" x1="700.0" y1="80.0" x2="820.0" y2="200.0" style="animation-delay:1.09s"/>
+<line class="p" x1="700.0" y1="80.0" x2="820.0" y2="240.0" style="animation-delay:1.20s"/>
+<line class="p" x1="700.0" y1="120.0" x2="820.0" y2="160.0" style="animation-delay:1.22s"/>
+<line class="p" x1="700.0" y1="160.0" x2="820.0" y2="240.0" style="animation-delay:1.22s"/>
+<line class="p" x1="700.0" y1="200.0" x2="820.0" y2="160.0" style="animation-delay:1.03s"/>
+<line class="p" x1="700.0" y1="200.0" x2="820.0" y2="240.0" style="animation-delay:1.08s"/>
+<line class="p" x1="700.0" y1="240.0" x2="820.0" y2="40.0" style="animation-delay:0.87s"/>
+<line class="p" x1="700.0" y1="240.0" x2="820.0" y2="80.0" style="animation-delay:1.26s"/>
+<line class="p" x1="700.0" y1="240.0" x2="820.0" y2="120.0" style="animation-delay:0.95s"/>
+<line class="p" x1="700.0" y1="240.0" x2="820.0" y2="160.0" style="animation-delay:1.32s"/>
+<line class="p" x1="700.0" y1="240.0" x2="820.0" y2="200.0" style="animation-delay:1.07s"/>
+<line class="p" x1="820.0" y1="80.0" x2="940.0" y2="100.0" style="animation-delay:1.85s"/>
+<line class="p" x1="820.0" y1="80.0" x2="940.0" y2="140.0" style="animation-delay:2.13s"/>
+<line class="p" x1="820.0" y1="120.0" x2="940.0" y2="100.0" style="animation-delay:1.71s"/>
+<line class="p" x1="820.0" y1="120.0" x2="940.0" y2="140.0" style="animation-delay:1.74s"/>
+<line class="p" x1="820.0" y1="160.0" x2="940.0" y2="140.0" style="animation-delay:1.60s"/>
+<line class="p" x1="820.0" y1="160.0" x2="940.0" y2="180.0" style="animation-delay:1.82s"/>
+<circle class="n" cx="580.0" cy="80.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.00s"/>
+<circle class="n" cx="580.0" cy="120.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.10s"/>
+<circle class="n" cx="580.0" cy="160.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.20s"/>
+<circle class="n" cx="580.0" cy="200.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.30s"/>
+<circle class="n" cx="700.0" cy="40.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.60s"/>
+<circle class="n" cx="700.0" cy="80.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.70s"/>
+<circle class="n" cx="700.0" cy="120.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.80s"/>
+<circle class="n" cx="700.0" cy="160.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:0.90s"/>
+<circle class="n" cx="700.0" cy="200.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.00s"/>
+<circle class="n" cx="700.0" cy="240.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.10s"/>
+<circle class="n" cx="820.0" cy="40.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.20s"/>
+<circle class="n" cx="820.0" cy="80.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.30s"/>
+<circle class="n" cx="820.0" cy="120.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.40s"/>
+<circle class="n" cx="820.0" cy="160.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.50s"/>
+<circle class="n" cx="820.0" cy="200.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.60s"/>
+<circle class="n" cx="820.0" cy="240.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.70s"/>
+<circle class="n" cx="940.0" cy="100.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.80s"/>
+<circle class="n" cx="940.0" cy="140.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:1.90s"/>
+<circle class="n" cx="940.0" cy="180.0" r="8" fill="url(#nd)" filter="url(#glow)" style="animation-delay:2.00s"/>
+<g class="fade">
+<text class="t1" x="50" y="125">Olá, eu sou a Mariana</text>
+<text class="t2" x="52" y="165">Back-end Developer · Inteligência Artificial</text>
+<text class="t2" x="52" y="195">SEMEC · Porto Velho/RO<tspan class="cur"> ▌</tspan></text>
+</g>
+</svg>
