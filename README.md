@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou a Mariana! </h1>
+<p align="center">
+  <img src="./neural-banner.svg" alt="Rede neural animada" width="100%"/>
+</p>
+
 
 <p align="center">
   <b>Desenvolvedora Back-End</b> · Estudante de Ciência da Computação
